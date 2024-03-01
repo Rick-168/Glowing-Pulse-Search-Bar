@@ -139,6 +139,6 @@
     }
     100% {
 		border-color: #6f6;
-		box-shadow: 0 0 20px rgba(0,255,0,.6), inset 0 0 10px rgba(0,255,0,.4), 0 2px 0 #000;
+		box-shadow: 0 0 20px rgba(241, 238, 12, 0.842), inset 0 0 10px rgba(0,255,0,.4), 0 2px 0 #000;
     }
 }
